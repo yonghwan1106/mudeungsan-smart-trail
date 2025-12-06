@@ -296,10 +296,13 @@ export default function LandingPage() {
             </div>
             <div className="text-center md:text-right">
               <p className="text-sm text-gray-400">
-                2025 무등산국립공원 국민참여 정책제안 공모전
+                무등산국립공원 국민참여 정책제안 공모전
               </p>
               <p className="text-xs text-gray-500 mt-1">
                 본 프로토타입은 정책 제안을 위한 시연용입니다
+              </p>
+              <p className="text-xs text-yellow-500 mt-1">
+                ※ 화면에 표시된 데이터는 시연용 목업(Mock-up) 데이터입니다
               </p>
             </div>
           </div>
