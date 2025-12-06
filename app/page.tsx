@@ -10,7 +10,7 @@ export default function LandingPage() {
       <div className="fixed top-4 right-4 z-50">
         <div className="bg-gradient-to-r from-green-600 to-emerald-500 text-white px-4 py-2 rounded-full shadow-lg flex items-center gap-2 text-sm font-medium animate-pulse">
           <span className="w-2 h-2 bg-white rounded-full"></span>
-          2025 무등산국립공원 국민참여 정책제안 출품작
+          무등산국립공원 국민참여 정책제안 출품작
         </div>
       </div>
 
