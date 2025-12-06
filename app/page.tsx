@@ -6,14 +6,6 @@ import { HeroSlider } from '@/components/HeroSlider';
 export default function LandingPage() {
   return (
     <div className="min-h-screen">
-      {/* 공모전 출품작 뱃지 */}
-      <div className="fixed top-4 left-4 z-50">
-        <div className="bg-gradient-to-r from-green-600 to-emerald-500 text-white px-4 py-2 rounded-full shadow-lg flex items-center gap-2 text-sm font-medium animate-pulse">
-          <span className="w-2 h-2 bg-white rounded-full"></span>
-          무등산국립공원 국민참여 정책제안 출품작
-        </div>
-      </div>
-
       {/* Hero Slider - Full Screen */}
       <HeroSlider />
 

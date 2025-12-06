@@ -145,9 +145,9 @@ export function HeroSlider() {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             {/* Text Content */}
             <div className="text-center lg:text-left">
-              <div className="inline-flex items-center gap-2 px-4 py-2 bg-white/10 backdrop-blur-md rounded-full text-white text-sm font-medium mb-6 border border-white/20">
-                <span className="w-2 h-2 bg-green-400 rounded-full animate-pulse" />
-                AI 기반 실시간 분석
+              <div className="inline-flex items-center gap-2 px-4 py-2 bg-gradient-to-r from-green-600 to-emerald-500 rounded-full text-white text-sm font-medium mb-6 shadow-lg">
+                <span className="w-2 h-2 bg-white rounded-full animate-pulse" />
+                무등산국립공원 국민참여 정책제안 출품작
               </div>
 
               {/* Animated Title */}
